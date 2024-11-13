@@ -25,8 +25,4 @@ Headquarters Location: Geographical location of the company's main office.
 Number of Employees: Approximate number of employees.
 Follower Count: Number of followers or engagement metrics on LinkedIn.
 
-Team Members: 
--> Atharva Hemant Malandkar
--> Barath Karthi R K
--> Harikrishnan C
--> Shunmuga Janani A
+Team Members: Atharva Hemant Malandkar, Barath Karthi R K, Harikrishnan C, Shunmuga Janani A
